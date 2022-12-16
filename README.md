@@ -1,0 +1,2 @@
+# Epsilon-Greedy
+Python package
